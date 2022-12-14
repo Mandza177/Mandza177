@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mandza177
-- 👀 I’m interested in Tech, new Web tools, leraning languages, music and hypnosis
+- 👀 I’m interested in Tech, new Web tools, leraning languages, music and hypnosis discvering some new skills
 - 🌱 I’m currently learning Ruby on Rails and React comming soon
 - 💞️ I’m looking to collaborate on Teams Project with business companies
 - 📫 How to reach me yannlecocq.dev@gmail.com, instagram and FB @yannlecocqhypnose44

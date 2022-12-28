@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ---><h1 align="center">Hi 👋, I'm Yann alias Volpino</h1>
 <h3 align="center">A passionate Back end developer from Nantes</h3>
 
-- 🔭 I’m currently working on [IZEN](https://izeno.online)
+- 🔭 I’m currently working on [IZEN](https://izeno.online) and my Web site (https:yann-lecocq.fr)
 
 - 🌱 I’m currently learning **Ruby on Rails, React, Python,**
 
